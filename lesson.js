@@ -1,3 +1,8 @@
+/**
+ * === BONUS ===
+ * Want to learn how to style logs? Check out the following link
+ * @url https://css-tricks.com/a-guide-to-console-commands/#aa-styling-the-output
+ */
 console.log("%cFunction Binding ⚙️", "padding: 10px; background: rebeccapurple; border-bottom: 3px solid orchid; font-weight: bold;");
 
 /* === Function Binding === */
