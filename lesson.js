@@ -1,3 +1,5 @@
+// @repo https://github.com/DaltonHart/function_binding_notes
+
 /**
  * === BONUS ===
  * Want to learn how to style logs? Check out the following link
