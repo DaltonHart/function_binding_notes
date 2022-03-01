@@ -1,4 +1,6 @@
-// @repo https://github.com/DaltonHart/function_binding_notes
+/** 
+ * @repo https://github.com/DaltonHart/function_binding_notes
+ */
 
 /**
  * === BONUS ===
