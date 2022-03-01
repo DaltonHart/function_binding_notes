@@ -15,8 +15,8 @@ console.log("%cFunction Binding ⚙️", "padding: 10px; background: rebeccapurp
   == GAMEPLAN == 
   1. Review `this` 
   2. The case for binding 
-  3. Using a bind function* 
+  3. Implementing a bind function* 
 
-  *example purpose only js has a built in .bind
+  *example purpose only, js has a built in .bind
 */
 
